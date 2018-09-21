@@ -1,0 +1,4 @@
+plugins:
+  topic_excerpt_length:
+    default: 150
+    client: true
